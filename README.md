@@ -1,7 +1,5 @@
 # JIHAZ369 QUADCOPTER REMOTE CONTROLLER
 
-## V1.8 — A5 Shared A/B Button System
-
 > **JIHAZ369 Flight Control System**
 > Arduino UNO + 1602 LCD Keypad Shield + nRF24L01 + Joysticks
 
